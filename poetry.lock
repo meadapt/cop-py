@@ -61,13 +61,13 @@ chardet = ">=3.0.2"
 
 [[package]]
 name = "certifi"
-version = "2024.12.14"
+version = "2025.1.31"
 description = "Python package for providing Mozilla's CA Bundle."
 optional = false
 python-versions = ">=3.6"
 files = [
-    {file = "certifi-2024.12.14-py3-none-any.whl", hash = "sha256:1275f7a45be9464efc1173084eaa30f866fe2e47d389406136d332ed4967ec56"},
-    {file = "certifi-2024.12.14.tar.gz", hash = "sha256:b650d30f370c2b724812bee08008be0c4163b163ddaec3f2546c1caf65f191db"},
+    {file = "certifi-2025.1.31-py3-none-any.whl", hash = "sha256:ca78db4565a652026a4db2bcdf68f2fb589ea80d0be70e03929ed730746b84fe"},
+    {file = "certifi-2025.1.31.tar.gz", hash = "sha256:3d5da6925056f6f18f119200434a4780a94263f10d1c21d032a6f6b2baa20651"},
 ]
 
 [[package]]
@@ -377,13 +377,13 @@ tomli = {version = "*", markers = "python_version > \"3.6\" and python_version <
 
 [[package]]
 name = "ipython"
-version = "8.31.0"
+version = "8.32.0"
 description = "IPython: Productive Interactive Computing"
 optional = false
 python-versions = ">=3.10"
 files = [
-    {file = "ipython-8.31.0-py3-none-any.whl", hash = "sha256:46ec58f8d3d076a61d128fe517a51eb730e3aaf0c184ea8c17d16e366660c6a6"},
-    {file = "ipython-8.31.0.tar.gz", hash = "sha256:b6a2274606bec6166405ff05e54932ed6e5cfecaca1fc05f2cacde7bb074d70b"},
+    {file = "ipython-8.32.0-py3-none-any.whl", hash = "sha256:cae85b0c61eff1fc48b0a8002de5958b6528fa9c8defb1894da63f42613708aa"},
+    {file = "ipython-8.32.0.tar.gz", hash = "sha256:be2c91895b0b9ea7ba49d33b23e2040c352b33eb6a519cca7ce6e0c743444251"},
 ]
 
 [package.dependencies]
@@ -881,13 +881,13 @@ dev = ["argcomplete", "attrs (>=19.2)", "hypothesis (>=3.56)", "mock", "pygments
 
 [[package]]
 name = "pytest-copie"
-version = "0.2.0"
+version = "0.2.1"
 description = "The pytest plugin for your copier templates 📒"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "pytest_copie-0.2.0-py3-none-any.whl", hash = "sha256:374538b5d602093c10c0c904bc7f6d6ae77ca00f4158364c894a549a2265772e"},
-    {file = "pytest_copie-0.2.0.tar.gz", hash = "sha256:12f002e2f40ecc00062b3aa3099e0c665df6fd3711284bad9605dbfead0f0e63"},
+    {file = "pytest_copie-0.2.1-py3-none-any.whl", hash = "sha256:64339e571999b3b8de75e6986b560835cb4f044e7b1fcecb56843d6ba0285c52"},
+    {file = "pytest_copie-0.2.1.tar.gz", hash = "sha256:7e2161803ced1f5efecf8780103b4bc04df7c150a0bf561bae532a5bf6b96824"},
 ]
 
 [package.dependencies]
